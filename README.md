@@ -16,7 +16,7 @@
 import UserContext from "@src/context/userContext";
 
 // inside component
-const user = useContext(UserContext);
+const user = UserContext(UserContext);
 console.log(user)
 ```
 
