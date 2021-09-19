@@ -1,7 +1,6 @@
 import {useState,useEffect} from "react";
 import axios from "axios"
 function useGET(url){
-    console.log({url})
     const [request, setRequest] = useState({
         data:null,
         loading:true,
