@@ -1,6 +1,6 @@
 # template-next-redux-hooks-context
 
-## [Download](https://github.com/ats1999/template-next-redux-hooks-context/raw/main/template.zip)
+## [Download-zip](https://github.com/ats1999/template-next-redux-hooks-context/raw/main/template-next-redux-context-hooks.zip)
 
 - `jsconfig.json` configured
 - `chakra-ui` configured
@@ -30,8 +30,15 @@ const req = useGET(url);
 ```js
 const user = useLocalUser()
 ```
+## API
+- GET
+- PUT
+- POST
+- GET_Auth
+
 
 ## Util
 - getLocalStorage
 - setLocalStorage
 - isCookie
+
