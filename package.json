@@ -1,0 +1,35 @@
+{
+  "name": "react-next-chakra-components-ui",
+  "version": "1.0.0",
+  "description": "Some  day to day components ready to be used in chakra ui and react/next.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ats1999/react-next-chakra-components-ui.git"
+  },
+  "author": "Rahul (github.com/ats1999)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ats1999/react-next-chakra-components-ui/issues"
+  },
+  "homepage": "https://github.com/ats1999/react-next-chakra-components-ui#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.7",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "axios": "^0.21.4",
+    "framer-motion": "^4.1.17",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0"
+  }
+}
